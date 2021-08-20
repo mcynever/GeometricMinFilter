@@ -8,4 +8,6 @@ the format is like follows: each line contains information of a flow, denoted as
 3. change path = the path you want to store the result file,
 the format of the result file will be like follows: each line contains information of a flow, denoted as flowid+\t+ actual spread+\t+ estimated spread.
 Only the flows identified as superspreaders will have a positive estimate, all the other flows will estimated as 0.
+
+
 The parameter setting can be changed in GeometricMinFilter.java
