@@ -1,6 +1,3 @@
-package com.company;
-
-/** Util for general framework. */
 public class GeneralUtil {
   public static String path = "\\D:\\GF-EXP\\";
   public static Boolean isDstAsID = true;
